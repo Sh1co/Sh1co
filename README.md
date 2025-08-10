@@ -1,4 +1,4 @@
-![Header image](Assets\header_banner.png)
+![Header image](/Assets/header_banner.png)
 
 <!-- Replace the header image with your own if you like. Canva has great templates. -->
 
