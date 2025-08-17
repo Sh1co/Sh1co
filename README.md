@@ -3,7 +3,7 @@
 <!-- Replace the header image with your own if you like. Canva has great templates. -->
 
 Hey, I'm **Sh1co**! Unity developer who loves making and playing games!
-Feel free to contact me about anything gaming related.
+Feel free to contact me about anything gaming related on [Telegram (@Sh1co)](https://t.me/Sh1co).  
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sh1co/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Sh1co)
